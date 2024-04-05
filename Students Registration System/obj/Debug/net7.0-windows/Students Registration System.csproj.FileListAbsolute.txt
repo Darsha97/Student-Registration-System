@@ -1,0 +1,222 @@
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\Students Registration System.csproj.AssemblyReference.cache
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\AddUserWindow.g.cs
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\AdminWindow.g.cs
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\LoginWindow.g.cs
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\Students Registration System_MarkupCompile.cache
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\Students Registration System_MarkupCompile.lref
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\App.baml
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\AdminWindow.baml
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\LoginWindow.baml
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\Students Registration System.dll
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\refint\Students Registration System.dll
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\Students Registration System.pdb
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\AddUserWindow.baml
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Students Registration System.exe
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Students Registration System.deps.json
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Students Registration System.runtimeconfig.json
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Students Registration System.dll
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Students Registration System.pdb
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\Students Registration System.g.resources
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\Students Registration System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\Students Registration System.AssemblyInfoInputs.cache
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\Students Registration System.AssemblyInfo.cs
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\Students Registration System.csproj.CoreCompileInputs.cache
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\Students Registration System.csproj.CopyComplete
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\Students Registration System.genruntimeconfig.cache
+C:\Users\sanje\OneDrive\Desktop\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\ref\Students Registration System.dll
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Students Registration System.exe
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Students Registration System.deps.json
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Students Registration System.runtimeconfig.json
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Students Registration System.dll
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Students Registration System.pdb
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Humanizer.dll
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+E:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+E:\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\Students Registration System.csproj.AssemblyReference.cache
+E:\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\AddUserWindow.g.cs
+E:\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\AdminWindow.g.cs
+E:\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\LoginWindow.g.cs
+E:\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\MainWindow.g.cs
+E:\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\App.g.cs
+E:\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\Students Registration System_MarkupCompile.cache
+E:\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\Students Registration System_MarkupCompile.lref
+E:\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\App.baml
+E:\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\AddUserWindow.baml
+E:\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\AdminWindow.baml
+E:\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\LoginWindow.baml
+E:\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\MainWindow.baml
+E:\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\Students Registration System.g.resources
+E:\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\Students Registration System.GeneratedMSBuildEditorConfig.editorconfig
+E:\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\Students Registration System.AssemblyInfoInputs.cache
+E:\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\Students Registration System.AssemblyInfo.cs
+E:\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\Students Registration System.csproj.CoreCompileInputs.cache
+E:\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\Students Registration System.csproj.CopyComplete
+E:\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\Students Registration System.dll
+E:\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\refint\Students Registration System.dll
+E:\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\Students Registration System.pdb
+E:\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\Students Registration System.genruntimeconfig.cache
+E:\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\ref\Students Registration System.dll
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Students Registration System.exe
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Students Registration System.deps.json
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Students Registration System.runtimeconfig.json
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Students Registration System.dll
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Students Registration System.pdb
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Humanizer.dll
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+F:\Group Project\Students Registration System\Students Registration System\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+F:\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\Students Registration System.csproj.AssemblyReference.cache
+F:\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\AddUserWindow.g.cs
+F:\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\AdminWindow.g.cs
+F:\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\LoginWindow.g.cs
+F:\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\MainWindow.g.cs
+F:\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\App.g.cs
+F:\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\Students Registration System_MarkupCompile.cache
+F:\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\Students Registration System_MarkupCompile.lref
+F:\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\App.baml
+F:\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\AddUserWindow.baml
+F:\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\AdminWindow.baml
+F:\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\LoginWindow.baml
+F:\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\MainWindow.baml
+F:\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\Students Registration System.g.resources
+F:\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\Students Registration System.GeneratedMSBuildEditorConfig.editorconfig
+F:\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\Students Registration System.AssemblyInfoInputs.cache
+F:\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\Students Registration System.AssemblyInfo.cs
+F:\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\Students Registration System.csproj.CoreCompileInputs.cache
+F:\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\Students Registration System.csproj.CopyComplete
+F:\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\Students Registration System.dll
+F:\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\refint\Students Registration System.dll
+F:\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\Students Registration System.pdb
+F:\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\Students Registration System.genruntimeconfig.cache
+F:\Group Project\Students Registration System\Students Registration System\obj\Debug\net7.0-windows\ref\Students Registration System.dll
